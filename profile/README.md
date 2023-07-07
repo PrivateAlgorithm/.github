@@ -22,7 +22,7 @@ The following repositories contain the website code for the Sneak App. They are 
 ### Mobile App Repositories
 The following repositories contain the code for the mobile apps built with Flutter.
 
-1. Repository: [github.com/PrivateAlgorithm/client-mobile.git](https://github.com/PrivateAlgorithm/client-mobile.git)
+1. Repository: [github.com/PrivateAlgorithm/sneak-client-mobile.git](https://github.com/PrivateAlgorithm/sneak-client-mobile.git)
    - Description: This repository contains the code for the client mobile app. It is built using Flutter and communicates with the Sneak App's backend for data retrieval and synchronization.
 
 2. Repository: [github.com/PrivateAlgorithm/sample-mobile.git](https://github.com/PrivateAlgorithm/sample-mobile.git)
