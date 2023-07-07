@@ -41,4 +41,6 @@ The following repositories contain the code for the mobile apps built with Flutt
 
 ### Mobile App Technologies
 - `Flutter`: A UI toolkit by Google used for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- `Firebase_Auth`: A Flutter plugin for Firebase Auth, enabling Android and iOS authentication using passwords, phone numbers, and identity providers.
+- `Dio`: A powerful HTTP client for Dart/Flutter, which supports global configuration, interceptors, FormData, request cancellation, file    uploading/downloading, timeout, custom adapters, etc.
 
