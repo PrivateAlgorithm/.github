@@ -13,19 +13,19 @@ Welcome to the Abblor Tech Pvt. Ltd. organization! This documentation provides a
 ### Website Repositories
 The following repositories contain the website code for the Sneak App. They are built using React.
 
-1. Repository: [github.com/abblor/sample-client](https://github.com/abblor/sample-client)
+1. Repository: [github.com/abblor/web-client-1](https://github.com/abblor/web-client-1)
    - Description: This repository contains the code for the first sample client website. It utilizes the Sneak App's backend for data retrieval and management.
 
-2. Repository: [github.com/abblor/sample-client-2](https://github.com/abblor/sample-client-2)
+2. Repository: [github.com/abblor/web-client-2](https://github.com/abblor/web-client-2)
    - Description: This repository contains the code for the second sample client website. It also interacts with the Sneak App's backend for various functionalities.
 
 ### Mobile App Repositories
 The following repositories contain the code for the mobile apps built with Flutter.
 
-1. Repository: [github.com/abblor/sneak-client-mobile.git](https://github.com/abblor/sneak-client-mobile.git)
+1. Repository: [github.com/abblor/sneak-mobile-app.git](https://github.com/abblor/sneak-mobile-app.git)
    - Description: This repository contains the code for the client mobile app. It is built using Flutter and communicates with the Sneak App's backend for data retrieval and synchronization.
 
-2. Repository: [github.com/abblor/sample-mobile.git](https://github.com/abblor/sample-mobile.git)
+2. Repository: [github.com/abblor/mobile-client-react.git](https://github.com/abblor/mobile-client-react.git)
    - Description: This repository contains the code for the sample mobile app. It showcases the features of the Sneak App and utilizes the backend for various functionalities.
 
 ## Technologies Used
