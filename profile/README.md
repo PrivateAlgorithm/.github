@@ -47,3 +47,5 @@ The following repositories contain the code for the mobile apps built with Flutt
 ### Design Guidelines
 - `Colors`: FF6500, EAE7ED, 161515
 - `Fonts` : "Poppins", "Inter"
+- [Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
+- [Inter](https://fonts.google.com/specimen/Inter?query=Inter)
